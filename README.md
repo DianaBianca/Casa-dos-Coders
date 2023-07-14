@@ -47,3 +47,8 @@ Os testes serão executados e você verá os resultados exibidos no terminal.
 Os resultados dos testes serão exibidos como saídas no terminal, mostrando se os testes passaram ou falharam, juntamente com informações adicionais, como mensagens de erro, se houver alguma falha.
 
 Certifique-se de que você tenha o Ruby e o RSpec instalados corretamente em seu ambiente antes de executar os testes. Isso permitirá que você execute e verifique os resultados dos testes para validar sua implementação.
+
+### Compartilhe seus resultados!
+Me marque no Instagram (@dianacodes)! irei amar ver seu desenvolvimento!
+
+
