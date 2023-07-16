@@ -1,8 +1,8 @@
-# Desafios da Di
+# Casa dos Coders
 
-E ai programadores, bora praticar?
+E ai programadores sejam todos muito bem vindos à Casa dos Coders, bora praticar?
 Aqui neste repositório você encontrará alguns exercícios semelhantes a alguns desafios que empresas aplicam durante suas entrevistas de emprego, então aproveite para praticar bastante!
-Vale lembrar que todos os desafios são escritos na linguagem Ruby, que é uma linguagem bem legível e de fácil entendimento para iniciantes, porém, se não conhecer essa linguagem, você pode realizá-lo na linguaguem que mais tenha familiaridade, é só seguir as regras descritas no README!
+Vale lembrar que todos os desafios são escritos na linguagem Ruby, que é uma linguagem bem legível e de fácil entendimento para iniciantes, porém, se não conhecer essa linguagem, você pode realizá-lo na linguaguem que mais tenha familiaridade, é só seguir as regras descritas no README, tá!
 
 ## Minhas expectativas
 
